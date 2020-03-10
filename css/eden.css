@@ -38,18 +38,19 @@ h6{
 
 .h4{
 
-    width: 20px;
+    /* width: 2.5rem; */
     border: 2px solid white;
     border-radius: 50%;
-    padding: 30px;
+    padding: 3rem;
     margin-left: 75rem;
+    
     /* margin-top: 100px; */
     
 }
 
 h4{
     text-align: center;
-    color: burlywood;
+    color: white;
     font-size: 2rem;
 }
  
@@ -210,8 +211,9 @@ h5{
     .right{
         float: right;
         width: 30%;
-        height: 2rem;
-        margin-top: 14rem;
+        height: 20vh;
+        margin-bottom: -5rem;
+        /* margin-top: 14rem; */
         background-color: black;
     }
 
@@ -219,7 +221,7 @@ h5{
         font-size: 2.5rem;
         text-transform: uppercase;
         font-weight: bolder;
-        /* padding-left: 15px; */
+        padding-left: 15px;
         margin-top: -4rem;
         color: white;
     }
